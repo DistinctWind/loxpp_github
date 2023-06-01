@@ -1,6 +1,9 @@
 fun say() {
     println "Hello World!";
+    println "This is from simple test";
 }
 
 for (var i = 1; i<=10; i=i+1)
     say();
+    
+println 1 + 2 * 3;
